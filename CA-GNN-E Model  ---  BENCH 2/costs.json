@@ -1,0 +1,37 @@
+{
+  "convnext": {
+    "latency_ms": 4.9012818684180575,
+    "peak_mem_bytes": 137269248.0,
+    "avg_power_w": 85.09200000000003,
+    "weight_size_bytes": 111295892.0,
+    "composite_cost": 0.5416729460912602
+  },
+  "resnet": {
+    "latency_ms": 5.084794852882624,
+    "peak_mem_bytes": 116683776.0,
+    "avg_power_w": 105.06800000000004,
+    "weight_size_bytes": 94073108.0,
+    "composite_cost": 0.6297816050061095
+  },
+  "efficientnet": {
+    "latency_ms": 6.658048803607623,
+    "peak_mem_bytes": 37468160.0,
+    "avg_power_w": 114.84099999999997,
+    "weight_size_bytes": 16055812.0,
+    "composite_cost": 0.5133781700441147
+  },
+  "deit": {
+    "latency_ms": 4.293377542247375,
+    "peak_mem_bytes": 100673024.0,
+    "avg_power_w": 78.06800000000003,
+    "weight_size_bytes": 86670356.0,
+    "composite_cost": 0.28686485616039875
+  },
+  "regnety": {
+    "latency_ms": 7.260999580224355,
+    "peak_mem_bytes": 39323648.0,
+    "avg_power_w": 92.73741666666665,
+    "weight_size_bytes": 21992052.0,
+    "composite_cost": 0.4139070312498531
+  }
+}
